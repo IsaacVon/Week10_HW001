@@ -1,5 +1,10 @@
 [
-    {"id":1,"first_name":"Wilone","last_name":"Tomala","email":"wtomala0@businessinsider.com","role":"Sales Associate"},
+    {
+        "id":1,
+        "first_name":"Wilone",
+        "last_name":"Tomala",
+        "email":"wtomala0@businessinsider.com",
+        "role":"Sales Associate"},
     {"id":2,"first_name":"Maurits","last_name":"Rivel","email":"mrivel1@prlog.org","role":"Sales Associate"},
     {"id":3,"first_name":"Loraine","last_name":"Portlock","email":"lportlock2@live.com","role":"Assistant Media Planner"},
     {"id":4,"first_name":"David","last_name":"Ortiga","email":"dortiga3@usgs.gov","role":"Assistant Manager"},
